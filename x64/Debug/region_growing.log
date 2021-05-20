@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1104: cannot open file 'D:\CV\region_growing\x64\Debug\region_growing.exe'
